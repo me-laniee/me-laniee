@@ -13,7 +13,7 @@
   <br><br>
   <p align="center">
     <samp>
-      #html #css #python #Parrot 
+      #html #css #Parrot 
     </samp>
     <br>
   </p>
